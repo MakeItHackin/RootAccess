@@ -1,5 +1,7 @@
 # RootAccess Interactive SAO — How-To Guide
 
+![alt text](https://raw.githubusercontent.com/MakeItHackin/RootAccess/refs/heads/main/images/RootAccessSAO.jpg)
+
 This document covers everything needed to operate the RootAccess board: as a
 standalone device using its physical button, and as an I2C peripheral
 controlled from any host (Arduino, ESP32, Raspberry Pi, Linux `i2c-dev`,
