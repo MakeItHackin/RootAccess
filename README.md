@@ -7,6 +7,11 @@ standalone device using its physical button, and as an I2C peripheral
 controlled from any host (Arduino, ESP32, Raspberry Pi, Linux `i2c-dev`,
 anything that can speak I2C).
 
+Purchase Here: 
+- https://uberflux.com/product/MIH-RootAccessSao 
+- https://makeithackin.myshopify.com/products/root-access-sao 
+- https://www.tindie.com/products/43522/
+
 ## Hardware summary
 
 - **MCU:** ATtiny1616
