@@ -10,7 +10,6 @@ anything that can speak I2C).
 Purchase Here: 
 - https://uberflux.com/product/MIH-RootAccessSao 
 - https://makeithackin.myshopify.com/products/root-access-sao 
-- https://www.tindie.com/products/43522/
 
 ## Hardware summary
 
