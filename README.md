@@ -7,6 +7,9 @@ standalone device using its physical button, and as an I2C peripheral
 controlled from any host (Arduino, ESP32, Raspberry Pi, Linux `i2c-dev`,
 anything that can speak I2C).
 
+YouTube Demonstration:
+- https://www.youtube.com/watch?v=q30KheOV6QE
+
 Purchase Here: 
 - https://uberflux.com/product/MIH-RootAccessSao 
 - https://makeithackin.myshopify.com/products/root-access-sao 
